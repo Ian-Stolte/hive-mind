@@ -135,6 +135,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Food Deposit
       objectReference: {fileID: 0}
+    - target: {fileID: 4442524836929045968, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 0cd27d0ab9f1eac40932d6c1a63470ac, type: 2}
+    - target: {fileID: 4442524836929045968, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6107948756546073020, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
       propertyPath: m_LocalPosition.x
       value: 14.89
@@ -638,7 +646,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: You can click on an ant to get its attention.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -702,7 +710,7 @@ MonoBehaviour:
   m_margin: {x: -89.892624, y: 0, z: -89.00279, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &218247500
@@ -1026,7 +1034,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'But beware: beetles can devour your ants in an instant.'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_sharedMaterial: {fileID: 3266272834981859017, guid: 30067597635cd9f4187105bf160b3a0e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1325,6 +1333,14 @@ PrefabInstance:
     - target: {fileID: 4138060368567756876, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
       propertyPath: m_Name
       value: Food Deposit
+      objectReference: {fileID: 0}
+    - target: {fileID: 4442524836929045968, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 0cd27d0ab9f1eac40932d6c1a63470ac, type: 2}
+    - target: {fileID: 4442524836929045968, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6107948756546073020, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1752,7 +1768,7 @@ MonoBehaviour:
   m_text: 'Food: 0'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_sharedMaterial: {fileID: 3155958597207782207, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1899,7 +1915,7 @@ MonoBehaviour:
   m_text: Click on a <u>soldier</u> then click on a beetle to enter <u>attack</u>
     mode!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_sharedMaterial: {fileID: 3266272834981859017, guid: 30067597635cd9f4187105bf160b3a0e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2080,6 +2096,14 @@ PrefabInstance:
     - target: {fileID: 4138060368567756876, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
       propertyPath: m_Name
       value: Food Deposit
+      objectReference: {fileID: 0}
+    - target: {fileID: 4442524836929045968, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 0cd27d0ab9f1eac40932d6c1a63470ac, type: 2}
+    - target: {fileID: 4442524836929045968, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6107948756546073020, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2347,7 +2371,7 @@ MonoBehaviour:
   m_text: <u>Gatherers</u> can collect leaves and bring them back to the colony for
     food...
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_sharedMaterial: {fileID: 3266272834981859017, guid: 30067597635cd9f4187105bf160b3a0e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2525,7 +2549,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Click to continue tutorial, S to skip
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2589,7 +2613,7 @@ MonoBehaviour:
   m_margin: {x: -89.892624, y: 0, z: -308.8846, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1231924504
@@ -3566,7 +3590,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: While <u>soldiers</u> can shoot acid to fight off agressive <u>beetles<u>.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_sharedMaterial: {fileID: 3266272834981859017, guid: 30067597635cd9f4187105bf160b3a0e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3883,7 +3907,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Then click somewhere else, and the ant will <u>move there</u>.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_sharedMaterial: {fileID: 3266272834981859017, guid: 30067597635cd9f4187105bf160b3a0e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4244,7 +4268,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: When things get too dangerous, <u>flee</u> back to the colony!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4308,7 +4332,7 @@ MonoBehaviour:
   m_margin: {x: -135.28316, y: 0, z: -140.3424, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1992914453
@@ -4639,7 +4663,7 @@ MonoBehaviour:
   m_text: Back to Colony
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_sharedMaterial: {fileID: 3155958597207782207, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5007,6 +5031,14 @@ PrefabInstance:
     - target: {fileID: 4138060368567756876, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
       propertyPath: m_Name
       value: Food Deposit
+      objectReference: {fileID: 0}
+    - target: {fileID: 4442524836929045968, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 0cd27d0ab9f1eac40932d6c1a63470ac, type: 2}
+    - target: {fileID: 4442524836929045968, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6107948756546073020, guid: 3c98b4d1bc279cf4c87113f661fdd670, type: 3}
       propertyPath: m_LocalPosition.x

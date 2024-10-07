@@ -332,8 +332,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Explore
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
+  m_sharedMaterial: {fileID: -5511788585870422977, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -467,7 +467,7 @@ MonoBehaviour:
   m_text: -2 food
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_sharedMaterial: {fileID: 3155958597207782207, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -676,7 +676,7 @@ MonoBehaviour:
   m_text: Leave the colony
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_sharedMaterial: {fileID: 3155958597207782207, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -810,7 +810,7 @@ MonoBehaviour:
   m_text: ' Buy'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_sharedMaterial: {fileID: 3155958597207782207, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -944,7 +944,7 @@ MonoBehaviour:
   m_text: Grow your colony
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_sharedMaterial: {fileID: 3155958597207782207, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1315,7 +1315,7 @@ MonoBehaviour:
   m_text: "Part of the colony starved:\n  - 4 Gatherers\n  - 2 Soldiers"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_sharedMaterial: {fileID: 3155958597207782207, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1461,7 +1461,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: All this exploring and fighting is tough work...
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1525,7 +1525,7 @@ MonoBehaviour:
   m_margin: {x: -161.27782, y: 0, z: -157.98189, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &379246192
@@ -1958,7 +1958,7 @@ MonoBehaviour:
   m_text: -3 food
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_sharedMaterial: {fileID: 3155958597207782207, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2104,7 +2104,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Every 3 times you leave the colony, your ants will get <u>hungry</u>.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2168,7 +2168,7 @@ MonoBehaviour:
   m_margin: {x: -161.27782, y: 0, z: -157.98189, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &665812056
@@ -2239,8 +2239,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Food: <u>0</u>'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
+  m_sharedMaterial: {fileID: -5511788585870422977, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2587,7 +2587,7 @@ MonoBehaviour:
   m_text: The colony is <u>hungry</u>
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_sharedMaterial: {fileID: 3155958597207782207, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2733,7 +2733,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: If you don't find enough food (1 per ant), they will <u>starve</u>.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2797,7 +2797,7 @@ MonoBehaviour:
   m_margin: {x: -161.27782, y: 0, z: -157.98189, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1155650568
@@ -3141,7 +3141,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Click to continue tutorial, S to skip
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3205,7 +3205,7 @@ MonoBehaviour:
   m_margin: {x: -89.892624, y: 0, z: -308.8846, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1321702449
@@ -3429,7 +3429,7 @@ MonoBehaviour:
   m_text: ' Buy'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_sharedMaterial: {fileID: 3155958597207782207, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3851,8 +3851,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Gatherers: <u>2</u>'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
+  m_sharedMaterial: {fileID: -5511788585870422977, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4065,8 +4065,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Soldiers: <u>4</u>'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
+  m_sharedMaterial: {fileID: -5511788585870422977, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

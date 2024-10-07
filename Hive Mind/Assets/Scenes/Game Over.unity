@@ -182,8 +182,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Restart?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
+  m_sharedMaterial: {fileID: -5511788585870422977, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -453,8 +453,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: The colony has died.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
-  m_sharedMaterial: {fileID: -4342629537710249171, guid: a405eb69333c1d8409dc1dc8f2970144, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 675abb5067a33a74fa005152974d5311, type: 2}
+  m_sharedMaterial: {fileID: -5511788585870422977, guid: 675abb5067a33a74fa005152974d5311, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -905,6 +905,7 @@ MonoBehaviour:
   enemyPrefab: {fileID: 9168514427696041834, guid: 46767d75e2cb564498bc57fe91261649, type: 3}
   skipTutorial: 0
   inTutorial: 0
+  foodDeposited: 0
 --- !u!4 &1400662392
 Transform:
   m_ObjectHideFlags: 0
